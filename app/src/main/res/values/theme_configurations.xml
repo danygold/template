@@ -1,9 +1,9 @@
 <resources>
     <!-- Theme name and author name -->
-    <string name="ThemeName">Substratum Theme Template</string>
-    <string name="ThemeAuthor">[projekt.] development team</string>
+    <string name="ThemeName">First Theme</string>
+    <string name="ThemeAuthor">danygold</string>
     <!-- Your email for bug reports -->
-    <string name="ThemeAuthorEmail"></string>
+    <string name="ThemeAuthorEmail">danidani95dani@gmail.com</string>
     <!-- Do you support Stock and Theme Ready Gapps? -> all -->
     <!-- Do you support Theme Ready but not Stock Gapps? -> ready -->
     <!-- Do you support Stock but not Theme Ready Gapps? -> stock -->
